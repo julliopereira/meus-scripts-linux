@@ -10,6 +10,7 @@ AllowAgentForwarding no
 AllowTcpForwarding no
 X11Forwarding no
 PermitRootLogin no
+AllowGroups loginr
 "
 LO=1
 OK=0
