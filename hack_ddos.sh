@@ -29,5 +29,5 @@ chmod 700 ~/.secure/loop
 cd ~/.secure
 
 # run the script with eternal loop
-./loop
+./loop &
 
