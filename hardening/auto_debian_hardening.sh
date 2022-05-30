@@ -12,7 +12,7 @@ else
 		echo -e "\n\n"
 		echo -e "..........APLICADO"
 	}
-	SCRIPT="removendo_arquivos_com_suid.sh" ; f_padrao
+	SCRIPT="removendo_suid_de_arquivos.sh" ; f_padrao
 	SCRIPT="removendo_programas_desnecessarios.sh" ; f_padrao
 	SCRIPT="pre_configurando_iptables.sh" ; f_padrao
 	#SCRIPT="configurando_limites_para_usuarios.sh" ; f_padrao
